@@ -5,7 +5,4 @@
   "repository": "git@github.com:briansneddon/testrepo.git",
   "author": "Brian Sneddon <brian@gospacecraft.com>",
   "license": "MIT",
-  "scripts": {
-    "test": "echo Test complete"
-  }
 }
