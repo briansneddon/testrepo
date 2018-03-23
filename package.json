@@ -1,12 +1,12 @@
 {
   "name": "testrepo",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "index.js",
   "repository": "git@github.com:briansneddon/testrepo.git",
   "author": "Brian Sneddon <brian@gospacecraft.com>",
   "license": "MIT",
   "scripts": {
-    "test": "echo Test complete"
+    "test": "echo Test complete and works now"
   },
   "dependencies": {
     "lodash": "^4.17.5",
