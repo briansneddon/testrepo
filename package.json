@@ -9,6 +9,7 @@
     "test": "echo Test complete and works now"
   },
   "dependencies": {
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.5",
+    "request": "^2.85.0"
   }
 }
