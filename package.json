@@ -1,6 +1,6 @@
 {
   "name": "testrepo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "repository": "git@github.com:briansneddon/testrepo.git",
   "author": "Brian Sneddon <brian@gospacecraft.com>",
