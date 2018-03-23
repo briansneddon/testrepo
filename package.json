@@ -6,7 +6,7 @@
   "author": "Brian Sneddon <brian@gospacecraft.com>",
   "license": "MIT",
   "scripts": {
-    "test": "echo Test complete"
+    "test": "echo Test complete and works now"
   },
   "dependencies": {
     "lodash": "^4.17.5"
